@@ -1,5 +1,7 @@
 # Event & Activities Listing
 
+Non-exhaustive list of event types to form basis of the 3-in-1 quickstart guide.
+
 ## Ceremonial/Holiday
 
 * Lunar New Year & Candlelight Blessing Ceremony
