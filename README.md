@@ -2,13 +2,18 @@
 
 Seed project for Lotus Buddies, just to get something off the ground.
 
-## Target Audience
 
-Novice/beginner 3-in-1 documentation volunteer, but with a heavy bias toward photography.
 
-## Objective
+## Project Overview
 
-Create a set of “cheat sheets” to answer the question: __What does one take photos of?__
+### Objective
+
+Answer the question __“What does one take photos of?”__ by providing a list of suggestions and corresponding samples for each common event type.
+
+### Target Audience
+
+Beginner 3-in-1 documentation volunteer, but with an obvious bias toward photography (that’s just how it is)
+
 
 
 ## Tentative Event Listing
