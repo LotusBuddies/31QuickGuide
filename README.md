@@ -1,18 +1,14 @@
-# The Lotus Buddies “3-in-1” Quickstart Guide
+# Tzu Chi “3-in-1” Quickstart Guide
 
 Seed project for Lotus Buddies, just to get something off the ground.
 
 
 
-## Project Overview
+## Overview
 
-### Objective
+The target audience for this guide is a beginner 3-in-1 documentation volunteer with a photography focus; the objective is to answer the question __“What does one take photos of?”__ by providing a list of suggestions and corresponding samples for each common event type.
 
-Answer the question __“What does one take photos of?”__ by providing a list of suggestions and corresponding samples for each common event type.
-
-### Target Audience
-
-Beginner 3-in-1 documentation volunteer, but with an obvious bias toward photography (that’s just how it is)
+Content will be developed in English primarily, with Mandarin Chinese translations if resource availability allows.
 
 
 
